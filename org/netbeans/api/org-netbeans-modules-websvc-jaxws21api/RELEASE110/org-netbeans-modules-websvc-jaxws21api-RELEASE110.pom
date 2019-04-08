@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.netbeans.api</groupId>
+  <artifactId>org-netbeans-modules-websvc-jaxws21api</artifactId>
+  <version>RELEASE110</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.netbeans.api</groupId>
+      <artifactId>org-netbeans-modules-xml-jaxb-api</artifactId>
+      <version>RELEASE110</version>
+    </dependency>
+    <dependency>
+      <groupId>org.netbeans.external</groupId>
+      <artifactId>jaxws-api</artifactId>
+      <version>RELEASE110</version>
+    </dependency>
+    <dependency>
+      <groupId>org.netbeans.external</groupId>
+      <artifactId>jsr181-api</artifactId>
+      <version>RELEASE110</version>
+    </dependency>
+    <dependency>
+      <groupId>org.netbeans.external</groupId>
+      <artifactId>javax.annotation</artifactId>
+      <version>RELEASE110</version>
+    </dependency>
+    <dependency>
+      <groupId>org.netbeans.external</groupId>
+      <artifactId>saaj-api</artifactId>
+      <version>RELEASE110</version>
+    </dependency>
+  </dependencies>
+</project>
